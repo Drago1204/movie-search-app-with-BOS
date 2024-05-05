@@ -29,3 +29,14 @@ To use this application, the user must be logged in. The user can then search fo
 ## Error Handling
 
 If the movie is not found, an alert message is displayed to the user. If any errors occur while fetching the movie data, the errors are logged to the console.
+
+## Links
+
+You can access the components on the testnet of near.social:
+
+- [SearchMovieByTitle](https://test.near.social/#/osweld.testnet/widget/SearchMovieByTitle)
+- [SearchMovieBar](https://test.near.social/#/osweld.testnet/widget/SearchMovieBar)
+- [MovieCard](https://test.near.social/#/osweld.testnet/widget/MovieCard)
+- [LastSearchMovies](https://test.near.social/#/osweld.testnet/widget/LastSearchMovies)
+- [SaveMovieSearchButtom](https://test.near.social/#/osweld.testnet/widget/SaveMovieSearchButtom)
+
